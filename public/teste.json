@@ -1,0 +1,191 @@
+[
+    {
+        "data": "1990-1990",
+        "Emissão de CO2e": 2386.80734127905,
+        "Emissão de CO2": 2.1148227252,
+        "Emissão de CH4": 81.33521322905,
+        "Emissão de N2O": 2.18275174435
+    },
+    {
+        "data": "1991-1991",
+        "Emissão de CO2e": 3419.20384711755,
+        "Emissão de CO2": 2.25842045895,
+        "Emissão de CH4": 210.9510328427,
+        "Emissão de N2O": 4.9005580997
+    },
+    {
+        "data": "1992-1992",
+        "Emissão de CO2e": 5944.8282230978,
+        "Emissão de CO2": 7.6414381897,
+        "Emissão de CH4": 209.9926289919,
+        "Emissão de N2O": 4.9269083099
+    },
+    {
+        "data": "1993-1993",
+        "Emissão de CO2e": 6861.7937103296,
+        "Emissão de CO2": 1.8768500193,
+        "Emissão de CH4": 245.5262556609,
+        "Emissão de N2O": 5.4963402949
+    },
+    {
+        "data": "1994-1994",
+        "Emissão de CO2e": 7049.2905726239,
+        "Emissão de CO2": 3.8371677225,
+        "Emissão de CH4": 255.3666226747,
+        "Emissão de N2O": 5.4282397701
+    },
+    {
+        "data": "1995-1995",
+        "Emissão de CO2e": 7891.77314662,
+        "Emissão de CO2": 5.9945600507,
+        "Emissão de CH4": 287.7541986618,
+        "Emissão de N2O": 5.9449690796
+    },
+    {
+        "data": "1996-1996",
+        "Emissão de CO2e": 7362.3439722067,
+        "Emissão de CO2": 4.6607896042,
+        "Emissão de CH4": 266.4434914957,
+        "Emissão de N2O": 5.6850640684
+    },
+    {
+        "data": "1997-1997",
+        "Emissão de CO2e": 8011.4475159632,
+        "Emissão de CO2": 6.7623283332,
+        "Emissão de CH4": 291.0680615655,
+        "Emissão de N2O": 6.1040512734
+    },
+    {
+        "data": "1998-1998",
+        "Emissão de CO2e": 9393.9591951889,
+        "Emissão de CO2": 6.2681414301,
+        "Emissão de CH4": 342.8447361173,
+        "Emissão de N2O": 7.0579083719
+    },
+    {
+        "data": "1999-1999",
+        "Emissão de CO2e": 10063.2602882385,
+        "Emissão de CO2": 9.7362358192,
+        "Emissão de CH4": 367.4899945748,
+        "Emissão de N2O": 7.5362392463
+    },
+    {
+        "data": "2000-2000",
+        "Emissão de CO2e": 10453.1451234151,
+        "Emissão de CO2": 12.4664852997,
+        "Emissão de CH4": 381.3688817525,
+        "Emissão de N2O": 7.8449423268
+    },
+    {
+        "data": "2001-2001",
+        "Emissão de CO2e": 12175.1374035808,
+        "Emissão de CO2": 11.1374874259,
+        "Emissão de CH4": 447.6640570087,
+        "Emissão de N2O": 8.9130797386
+    },
+    {
+        "data": "2002-2002",
+        "Emissão de CO2e": 14156.2747881408,
+        "Emissão de CO2": 11.764788357,
+        "Emissão de CH4": 518.8669676315,
+        "Emissão de N2O": 10.4783989662
+    },
+    {
+        "data": "2003-2003",
+        "Emissão de CO2e": 16452.5870275217,
+        "Emissão de CO2": 19.1234872752,
+        "Emissão de CH4": 603.1567407146,
+        "Emissão de N2O": 12.1521676943
+    },
+    {
+        "data": "2004-2004",
+        "Emissão de CO2e": 18574.6725712885,
+        "Emissão de CO2": 14.0757156547,
+        "Emissão de CH4": 682.9240574355,
+        "Emissão de N2O": 13.6102956435
+    },
+    {
+        "data": "2005-2005",
+        "Emissão de CO2e": 19584.9762629991,
+        "Emissão de CO2": 49.1904451934,
+        "Emissão de CH4": 719.5453502274,
+        "Emissão de N2O": 14.2752692356
+    },
+    {
+        "data": "2006-2006",
+        "Emissão de CO2e": 19750.9787879037,
+        "Emissão de CO2": 42.8370388603,
+        "Emissão de CH4": 726.0951088743,
+        "Emissão de N2O": 14.3875627828
+    },
+    {
+        "data": "2007-2007",
+        "Emissão de CO2e": 18704.8501228748,
+        "Emissão de CO2": 70.0232984786,
+        "Emissão de CH4": 678.7109057542,
+        "Emissão de N2O": 14.135154205
+    },
+    {
+        "data": "2008-2008",
+        "Emissão de CO2e": 19037.8249730759,
+        "Emissão de CO2": 83.5523014906,
+        "Emissão de CH4": 690.4117570865,
+        "Emissão de N2O": 14.3729863638
+    },
+    {
+        "data": "2009-2009",
+        "Emissão de CO2e": 19744.0192805055,
+        "Emissão de CO2": 39.1285299218,
+        "Emissão de CH4": 717.2273437993,
+        "Emissão de N2O": 14.9777952606
+    },
+    {
+        "data": "2010-2010",
+        "Emissão de CO2e": 20367.5476663913,
+        "Emissão de CO2": 83.7230808188,
+        "Emissão de CH4": 739.2917325866,
+        "Emissão de N2O": 15.3506393589
+    },
+    {
+        "data": "2011-2011",
+        "Emissão de CO2e": 20350.4162070387,
+        "Emissão de CO2": 156.6237964494,
+        "Emissão de CH4": 731.3881173951,
+        "Emissão de N2O": 15.5956191784
+    },
+    {
+        "data": "2012-2012",
+        "Emissão de CO2e": 20566.6010017105,
+        "Emissão de CO2": 190.2300097182,
+        "Emissão de CH4": 740.0477412429,
+        "Emissão de N2O": 15.5979626642
+    },
+    {
+        "data": "2013-2013",
+        "Emissão de CO2e": 20552.5457832599,
+        "Emissão de CO2": 138.0942138211,
+        "Emissão de CH4": 744.9536914936,
+        "Emissão de N2O": 15.3884646712
+    },
+    {
+        "data": "2014-2014",
+        "Emissão de CO2e": 21330.8413918865,
+        "Emissão de CO2": 155.732880911,
+        "Emissão de CH4": 770.5990919264,
+        "Emissão de N2O": 16.1049276791
+    },
+    {
+        "data": "2015-2015",
+        "Emissão de CO2e": 22357.579115548,
+        "Emissão de CO2": 61.6222823138,
+        "Emissão de CH4": 813.3173842531,
+        "Emissão de N2O": 16.8267476255
+    },
+    {
+        "data": "2016-2016",
+        "Emissão de CO2e": 22823.4628562831,
+        "Emissão de CO2": 102.8703593504,
+        "Emissão de CH4": 829.5107911576,
+        "Emissão de N2O": 17.0995673633
+    }
+]

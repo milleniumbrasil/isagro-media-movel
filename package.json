@@ -1,0 +1,54 @@
+{
+  "name": "isagro-timeline",
+  "version": "2.0.6",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.104",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.12.7",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "clean-dist": "rm -rf dist/**/*.test.js dist/**/*.test.d.ts dist/setupTests.* dist/reportWebVitals.*",
+    "copy-css": "cpx src/**/*.css dist/",
+    "first:publishing": "npm run build && npm org set isagro && npm publish --access public",
+    "publish:patch": "git add . && git commit -m \"patch\" && npm version patch && npm run build && npm publish --access public",
+    "publish:minor": "git add . && git commit -m \"minor\" && npm version minor && npm run build && npm publish --access public",
+    "publish:major": "git add . && git commit -m \"major\" && npm version major && npm run build && npm publish --access public"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cpx": "^1.5.0",
+    "ol": "^10.0.0",
+    "typescript": "^4.9.5"
+  }
+}
